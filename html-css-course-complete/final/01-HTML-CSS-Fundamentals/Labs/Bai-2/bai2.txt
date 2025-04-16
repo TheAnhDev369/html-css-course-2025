@@ -1,0 +1,11 @@
+🧪 Bài tập cho bạn:
+
+    Thêm 3 thẻ h1 đến h3 có nội dung khác nhau.
+
+    Thêm 1 đoạn văn sử dụng cả strong và em.
+
+    Chèn một ảnh mới (link từ Unsplash chẳng hạn).
+
+    Tạo 1 danh sách việc cần làm của bạn hôm nay (dùng <ul> hoặc <ol>).
+
+    Thêm 1 link đến một bài nhạc bạn thích (YouTube cũng được).

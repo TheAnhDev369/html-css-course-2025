@@ -1,0 +1,7 @@
+🧪 Bài tập nhỏ:
+
+    Thay đổi <title> thành tên bạn.
+
+    Thêm dòng Welcome to my website! trong <body>.
+
+    Mở file đó bằng trình duyệt (click đúp chuột).

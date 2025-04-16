@@ -1,0 +1,9 @@
+🧪 Bài tập cho bạn:
+
+    Tạo 1 file mới tên là layout.html.
+
+    Dùng semantic tags để viết bố cục blog giống trên (tùy chỉnh theo ý bạn).
+
+    Trong phần <aside>, liệt kê 3 bài viết bạn muốn viết trong tương lai.
+
+    Thêm 1 <footer> có nội dung bản quyền của bạn.
